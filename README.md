@@ -1,4 +1,7 @@
-SORTING_VISUALIZER
+SORTING VISUALIZER
+
+Check out live version of Sorting Visualizer :
+https://vishva5.github.io/SortingVisualizer.github.io/
 
 A web application showcasing the inner workings of sorting algorithms.
 
